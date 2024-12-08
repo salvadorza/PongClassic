@@ -12,6 +12,7 @@
 Tener Python instalado.
 
 Librerías usadas:
+
 ● Turtle
 
 ● Tkinter
